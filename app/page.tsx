@@ -96,13 +96,13 @@ export default function SchoolLandingPage() {
               </div>
             </div>
             <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 lg:grid-cols-2 lg:gap-12">
-              <Image
-                alt="School campus"
-                className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full"
-                height="310"
-                src="/placeholder.svg?height=310&width=550"
-                width="550"
-              />
+               <Image
+                  alt="My Image"
+                  className="aspect-video overflow-hidden rounded-xl object-cover object-center"
+                  height={400}
+                  width={600}
+                  src="/image/schoolcam.avif"
+                 />
               <div className="flex flex-col justify-center space-y-4">
                 <div className="grid gap-6">
                   <div className="flex items-start gap-4">
