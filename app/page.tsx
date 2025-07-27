@@ -75,7 +75,7 @@ export default function SchoolLandingPage() {
                   className="aspect-video overflow-hidden rounded-xl object-cover object-center"
                   height={400}
                   width={600}
-                  src="/images/girlyy.jpg"
+                  src="/image/picture.jpg"
                  />
 
               </div>
