@@ -75,7 +75,7 @@ export default function SchoolLandingPage() {
                   className="aspect-video overflow-hidden rounded-xl object-cover object-center"
                   height={400}
                   width={600}
-                  src="/image/school.jpg"
+                  src="/image/picture.jpg"
                  />
 
               </div>
@@ -101,7 +101,7 @@ export default function SchoolLandingPage() {
                   className="aspect-video overflow-hidden rounded-xl object-cover object-center"
                   height={400}
                   width={600}
-                  src="/image/schoolcam.avif"
+                  src="/image/picture.jpg"
                  />
               <div className="flex flex-col justify-center space-y-4">
                 <div className="grid gap-6">
